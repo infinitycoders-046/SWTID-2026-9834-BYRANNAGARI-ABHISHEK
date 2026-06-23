@@ -1,0 +1,28 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.hero-section {
+    background: linear-gradient(135deg, #ff7b00, #ffb347);
+    color: white;
+    padding: 120px 20px;
+}
+
+.card {
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+.footer {
+    background: #212529;
+    color: white;
+}
+
+.navbar-brand {
+    font-size: 1.3rem;
+}
+
+.nav-link.active {
+    color: #ffc107 !important;
+}

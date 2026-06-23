@@ -1,0 +1,9 @@
+dashboard 01-
+              https://public.tableau.com/views/FOODORDERINGBEHAVIORUANDCONSUMERTRENDSASTRUCTUREANALYSISCHOICESANDHABITSDashboard01/Dashboard01?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+dashboard 02-
+              https://public.tableau.com/views/FOODORDERINGBEHAVIORUANDCONSUMERTRENDSASTRUCTUREANALYSISCHOICESANDHABITSDashboard02/Dashboard02?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
+STORY -
+            https://public.tableau.com/views/FOODORDERINGBEHAVIORUANDCONSUMERTRENDSASTRUCTUREANALYSISCHOICESANDHABITSSTORY/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link

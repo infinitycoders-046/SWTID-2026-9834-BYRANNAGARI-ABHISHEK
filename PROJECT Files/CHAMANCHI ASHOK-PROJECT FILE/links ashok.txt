@@ -1,0 +1,8 @@
+dashbord 01-
+            https://public.tableau.com/views/FoodorderingBehaviourandConsumerTrendsAStructuredAnalysisofChoiceandHabits-Dashboard01/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+dashbord 02-
+            https://public.tableau.com/views/FoodorderingBehaviourandConsumerTrendsAStructuredAnalysisofChoiceandHabits-Dashboard02/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+story-
+           https://public.tableau.com/views/CHAMANCHIASHOK-TABLEAUFILE/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_links
